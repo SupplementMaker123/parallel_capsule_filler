@@ -1,2 +1,2 @@
-# multi-channel-pipette
-Open-source multi-channel pipette system for 96-well plates (8×12). Includes mechanical CAD, electronics, firmware, and build documentation. Designed for fast, parallel liquid handling using low-cost components.
+# parallel_capsule_filler
+Open-source parametric multi-channel capsule dispenser. Includes mechanical CAD, electronics, firmware, and build documentation. Designed for fast production runs of capsules using low-cost components.
